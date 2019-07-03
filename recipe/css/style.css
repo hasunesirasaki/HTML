@@ -1,0 +1,30 @@
+
+
+
+
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+header {
+  background: tomato;
+  height: 100px;
+}
+.container {
+  display: flex;
+}
+.main {
+  background: pink;
+  height: 600px;
+  width: 70%;
+}
+.side {
+  background: orange;
+  width: 30%;
+  height: 200px;
+}
+footer {
+  background: plum;
+  height: 100px;
+}
