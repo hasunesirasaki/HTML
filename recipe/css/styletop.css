@@ -1,5 +1,6 @@
 
 
+
 a{
   color: black;
   text-decoration: none;
@@ -20,14 +21,14 @@ a:hover{
 
 /*title*/
 .header2{
-  background: #00fa9a;
+  background: #bdb76b;
   max-width: 1000px;
   height: 130px;
   margin: 10;
   text-align: center;
 }
 .headfont{
-  background: #00fa9a;
+  background: #ffffe0;
   text-align:justify,center;
   margin-top:0px;
   padding: 10;
@@ -68,7 +69,7 @@ header {
   width: 100%;
   margin-top: 10px;
   margin-left: 10px;
-  border-bottom:  double 4px #7fffd4;
+  border-bottom:  double 4px #d2691e;
 }
 
 .mainfont{
@@ -84,12 +85,22 @@ header {
 .main3 {
   display: flex;
   background: ;
-  height: 310px;
-  width: 98%;
+  height: 400px;
+  width: 98%
   margin-top: 10px;
   margin-left: 10px;
-  border-bottom:  double 4px #7fffd4;
+  font-size:24px;
+  font-family: "HG正楷書体-PRO";
 }
+
+.main3font{
+  display: flex;
+  background: ;
+  line-height: 1.3;
+  font-size:24px;
+  font-family: "HG正楷書体-PRO";
+}
+
 
 .float-box{
   background: ;
